@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>E:\Master\VIAMLAB\AUV Project\AUV_Driver_BLDC\GUI_Control\BLDC_Hall_Sensor_Edit_USB2E-U\Torque_Sensor\bin\Debug\</ReferencePath>
+  </PropertyGroup>
+</Project>
